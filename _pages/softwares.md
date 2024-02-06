@@ -1,19 +1,21 @@
 ---
-layout: page
+layout: softwares
 permalink: /softwares/
 title: softwares
-description: #Materials for courses you taught. Replace this text with your description.
+description: softwares
+years: [2024, 2023, 2018, 2011]
 nav: true
 nav_order: 4
 ---
+<!-- _pages/publications.md -->
 
-## MIT
+<!-- <p>An up-to-date list is available on <a href="https://scholar.google.com/citations?user=qNk6tgcAAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar</a>.</p> -->
 
-- 6.008: Introduction to Inference, Teaching Assistant Fall 2021
-- 6.3800: Introduction to Inference, Teaching Assistant Fall 2022
+<div class="softwares">
 
-<!--
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+{%- for y in page.years %}
+  <h2 class="year">{{y}}</h2>
+  {% bibliography -f {{ site.scholar.bibliography }} -q @*[year={{y}}]* %}
+{% endfor %}
 
-Organize your courses by years, topics, or universities, however you like!
--->
+</div>
