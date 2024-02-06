@@ -2,81 +2,83 @@
   type: map
   contents:
     - name: Full Name
-      value: Dr. Marianthi Markatou
+      value: Lorem Ipsum
     - name: Email
-      value: marianthi.markatou [at] example [dot] com
+      value: lorem.ipsum [at] example [dot] com
     - name: Languages
-      value: English, Greek
+      value: Lorem, Ipsum
 
 - title: Education
   type: time_table
   contents:
-    - title: Ph.D. in Biostatistics
-      institution: Harvard University
-      year: 2008 - 2013
-    - title: M.S. in Statistics
-      institution: Stanford University
-      year: 2006 - 2008
-    - title: B.S. in Mathematics
-      institution: National and Kapodistrian University of Athens
-      year: 2002 - 2006
+    - title: Ph.D. in Lorem Ipsum
+      institution: Lorem Ipsum University
+      year: 2010 - 2015
+    - title: M.S. in Lorem Ipsum
+      institution: Lorem Ipsum Institute
+      year: 2008 - 2010
+    - title: B.S. in Lorem Ipsum
+      institution: Lorem Ipsum College
+      year: 2004 - 2008
 
 - title: Experience
   type: time_table
   contents:
-    - title: Associate Professor
-      institution: Department of Biostatistics, Columbia University
-      year: 2018 - Present
+    - title: Lorem Ipsum Researcher
+      institution: Lorem Ipsum Research Center
+      year: 2015 - Present
       description:
-        - Bayesian methods for high-dimensional data
-        - Causal inference in observational studies
-    - title: Assistant Professor
-      institution: Department of Statistics, University of California, Irvine
-      year: 2013 - 2018
+        - Lorem ipsum dolor sit amet
+        - Consectetur adipiscing elit
+        - Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+    - title: Lorem Ipsum Analyst
+      institution: Lorem Ipsum Corporation
+      year: 2012 - 2015
       description:
-        - Developed statistical methods for analyzing electronic health records
-        - Mentored graduate students in research projects
-    - title: Visiting Researcher
-      institution: National Institutes of Health (NIH)
-      year: Summer 2012
+        - Ut enim ad minim veniam
+        - Quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+    - title: Lorem Ipsum Intern
+      institution: Lorem Ipsum Industries
+      year: 2010 - 2012
       description:
-        - Investigated statistical methods for analyzing genomic data
-    - title: Research Assistant
-      institution: Johns Hopkins Bloomberg School of Public Health
-      year: 2010 - 2013
+        - Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
+    - title: Lorem Ipsum Assistant
+      institution: Lorem Ipsum Agency
+      year: 2008 - 2010
       description:
-        - Statistical modeling of infectious disease dynamics
+        - Excepteur sint occaecat cupidatat non proident
+        - Sunt in culpa qui officia deserunt mollit anim id est laborum
 
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/marianthimarkatou/statsfolio">statsfolio</a>
-      year: 2014-now
-      description: A collection of statistical tools and methods for public health research.
+    - title: <a href="https://github.com/loremipsum/loremfolio">loremfolio</a>
+      year: 2016-now
+      description: A collection of Lorem Ipsum tools and methods for Lorem Ipsum research.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 2015
+    - year: 2018
       items: 
-        - Elected Fellow of the American Statistical Association
-    - year: 2010
+        - Lorem Ipsum Award for Excellence
+    - year: 2016
       items: 
-        - Outstanding Graduate Student Instructor Award, Harvard University
+        - Lorem Ipsum Recognition Prize
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Bayesian Statistics
+    - title: Lorem Ipsum Studies
       items: 
-        - Hierarchical modeling
-        - Computational methods
-    - title: Causal Inference
+        - Lorem ipsum dolor sit amet
+        - Consectetur adipiscing elit
+    - title: Ipsum Research
       items:
-        - Propensity score methods
-        - Instrumental variable analysis
+        - Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+        - Ut enim ad minim veniam
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hiking, Cooking, Photography
+    - <u>Hobbies:</u> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
