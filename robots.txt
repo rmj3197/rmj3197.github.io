@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://raktim.shop/sitemap.xml
+Sitemap: https://rmj3197.github.io/sitemap.xml
