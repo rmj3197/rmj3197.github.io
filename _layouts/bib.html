@@ -176,6 +176,12 @@
       {%- if entry.arxiv %}
       <a href="http://arxiv.org/abs/{{ entry.arxiv }}" class="btn btn-sm z-depth-0" role="button">arXiv</a>
       {%- endif %}
+      {%- if entry.cran_link %}
+      <a href="{{ entry.cran_link }}" class="btn btn-sm z-depth-0" role="button">CRAN</a>
+      {%- endif %}
+      {%- if entry.pypi_link %}
+      <a href="{{ entry.pypi_link }}" class="btn btn-sm z-depth-0" role="button">PyPI</a>
+      {%- endif %}
       {%- if entry.bibtex_show %}
       <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
       {%- endif %}
