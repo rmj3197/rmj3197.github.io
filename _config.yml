@@ -176,9 +176,9 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
-  softwares:
-    output: true
-    permalink: /softwares/:path/
+  # softwares:
+  #   output: true
+  #   permalink: /softwares/:path/
 
 announcements:
   enabled: true
