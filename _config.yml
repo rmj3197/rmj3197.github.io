@@ -307,8 +307,6 @@ filtered_bibtex_keywords:
     selected,
     supp,
     blog,
-    cran_link,
-    pypi_link,
     poster,
     slides,
     website,
