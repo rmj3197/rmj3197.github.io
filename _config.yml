@@ -3,12 +3,12 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Junshen
+first_name: Marianthi 
 middle_name: 
-last_name: Xu
-chinese_last_name: 徐
-chinese_first_name: 俊燊
-email: junshen@mit.edu
+last_name: Markatou
+chinese_last_name: #徐
+chinese_first_name: #俊燊
+email: markatou@buffalo.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -19,7 +19,7 @@ keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: favicon_v2.ico #🎓 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://raktim.shop # the base hostname & protocol for your site
+url: https://rmj3197.github.io # the base hostname & protocol for your site
 baseurl: #/al-folio # the subpath of your site, e.g. /blog/
 last_updated: true # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
@@ -34,7 +34,7 @@ highlight_theme_dark: native    # https://github.com/jwarby/jekyll-pygments-them
 
 # repo color theme
 repo_theme_light: default       # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
-repo_theme_dark: dark           # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
+repo_theme_dark: default           # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 repo_trophies:
   enabled: true
   theme_light: flat    # https://github.com/ryo-ma/github-profile-trophy
@@ -72,13 +72,13 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: daviddmc # your GitHub user name
+github_username: #daviddmc # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-linkedin_username: junshen-xu-30444b129 # your LinkedIn user name
+linkedin_username: #junshen-xu-30444b129 # your LinkedIn user name
 telegram_username: # your Telegram user name
-scholar_userid: qNk6tgcAAAAJ # your Google Scholar ID
+scholar_userid: #qNk6tgcAAAAJ # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 orcid_id: # your ORCID ID
@@ -113,10 +113,10 @@ contact_note: >
 # Analytics and search engine verification
 # -----------------------------------------------------------------------------
 
-google_analytics: G-NYJ88YK0VS # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
+google_analytics: #G-NYJ88YK0VS # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
 panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 
-google_site_verification: MARJu3erA7Z6jybcmR5fgSNRNtCNYMAYkk0jidGGr8A # your google-site-verification ID (Google Search Console)
+google_site_verification: #MARJu3erA7Z6jybcmR5fgSNRNtCNYMAYkk0jidGGr8A # your google-site-verification ID (Google Search Console)
 bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 
 # -----------------------------------------------------------------------------
@@ -271,8 +271,8 @@ jekyll-archives:
 
 scholar:
 
-  last_name: [Xu]
-  first_name: [Junshen]
+  last_name: [Markatou]
+  first_name: [Marianthi]
 
   style: apa
   locale: en
