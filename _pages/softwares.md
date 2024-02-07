@@ -11,11 +11,11 @@ nav_order: 4
 
 <!-- <p>An up-to-date list is available on <a href="https://scholar.google.com/citations?user=qNk6tgcAAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar</a>.</p> -->
 
-<div class="softwares">
+<div class="publications">
 
 {%- for y in page.years %}
   <h2 class="year">{{y}}</h2>
-  {% bibliography -f {{ site.scholar.bibliography }} -q @*[year={{y}}]* %}
+  {% bibliography -f {{ site.scholar.softwares }} -q @*[year={{y}}]* %}
 {% endfor %}
 
 </div>
